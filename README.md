@@ -1,4 +1,4 @@
-Desafío de programación básico usando JavaScript para el manejo de la lógica general del programa.
+Desafío de programación básico usando JavaScript para el manejo de la lógica general del programa. AluraLatam + ORACLE
 
 ##################################################################################################
 
@@ -8,7 +8,7 @@ Funcionalidades
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Basic Programming Challenge Using JavaScript for General Program Logic Management.
+Basic Programming Challenge Using JavaScript for General Program Logic Management. AluraLatam + ORACLE
 
 ##################################################################################################
 
